@@ -1,0 +1,88 @@
+.form-container{
+    padding: 15px;
+    width: 450px;
+    border-radius: 10px;
+    overflow: hidden;
+    padding:20px;
+    background:#fff;
+    margin-top: 30px;
+}
+.rounded{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    margin-right: 50px;
+}
+h3{
+    font-size: 40px;
+    font-family: Poppins-Medium;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.login-form{
+    width: 100%;
+}
+.txt2 {
+    margin-left: 43%;
+    font-family: Poppins-Regular;
+    font-size: 14px;
+    line-height: 1.5;
+    color:rgb(165, 81, 248);
+    text-transform: uppercase;
+}
+
+a{
+    color: rgb(91, 49, 131);
+    text-decoration: none;
+    margin-left: 48%;
+}
+label{
+    margin-left: 36%;
+    text-align: center;
+    color:black;
+    border: none;
+}
+span{
+    text-align: center;
+    color: rgb(255, 0, 0);
+    border: none;
+}
+.container-login100{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(images/bg-01.jpg);
+}
+.btn-opacity-light{
+    margin-left: 41%;
+    color: rgb(221, 169, 71);
+    background-color: #ffeb90;
+    border: 2px solid transparent;
+    transition: all .5s ease-in-out;
+    
+}
+.btn-opacity-geo{
+    
+    color: hsl(0, 98%, 51%);
+    background-color: rgb(242, 178, 250);
+    border: 2px solid transparent;
+    transition: all .5s ease-in-out;
+    width: 100%;
+}
+.btn{
+    font-size: .875rem;
+    padding: .625rem 1.25rem;
+    outline: none;
+}
+
+
+
+
+
