@@ -1,7 +1,5 @@
 # Sehath ❤
 
-Teammate : [Taha Junaid](https://github.com/tahajunaid)
-
 Sehath is a web app designed to help people find life saving drugs during times of healthcare crisis such as the ongoing Coronavirus pandemic.
 
 It has three entry points :<br>
